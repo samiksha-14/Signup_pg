@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "my_newapp",
+            "request": "launch",
+            "type": "dart",
+            "program": "/Users/HP/Desktop/New folder/my_newapp/lib/Pages/main.dart"
+        },//"/Users/user/classes_advanced/animal.dart"
+        {
+            "name": "my_newapp (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_newapp (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
